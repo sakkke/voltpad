@@ -1,0 +1,14 @@
+#!/bin/sh
+
+CWD="$(cd "$(dirname "${0}")" && pwd)"
+
+PATH="${CWD}:${PATH}"
+
+PATH="${CWD}/../volta:${PATH}"
+
+VOLTA_HOME="${CWD}/../data/volta"
+PATH="${VOLTA_HOME}/bin:${PATH}"
+
+export PATH VOLTA_HOME
+
+exec "${CWD}/codium" "${@}"

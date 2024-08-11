@@ -1,0 +1,19 @@
+{
+    "editor.folding": false,
+    "editor.fontFamily": "'SF Mono', 'Cascadia Code', 'Droid Sans Mono', 'monospace', monospace",
+    "editor.formatOnSave": true,
+    "editor.glyphMargin": false,
+    "editor.lineNumbers": "off",
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorTheme": "Tokyo Night",
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.editor.showTabs": "none",
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "zenMode.showTabs": "none"
+}
